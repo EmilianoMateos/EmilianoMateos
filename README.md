@@ -12,7 +12,7 @@ I'm a physicist student at UNAM. My current interests are electrodynamics.
 
 - 📚📝 I’m currently in my **fifth semester of university (2027 - 1)**
   
-- 🐍 I’m currently learning **Phyton**
+- 🐍 I’m currently learning **Python**
 
 - 🌎 I’m looking to collaborate on **Student Chapter**
 
