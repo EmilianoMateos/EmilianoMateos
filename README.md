@@ -23,7 +23,7 @@ I'm a physicist student at UNAM. My current interests are electrodynamics.
  
 
  
-[EmilianoMateos.github.io](https://EmilianoMateos.github.io) · [jorgeemilianogams@ciencias.unam.mx](mailto:jorgeemilianogams@ciencias.unam.mx)
+[emilianomateos.github.io](https://EmilianoMateos.github.io) · [jorgeemilianogams@ciencias.unam.mx](mailto:jorgeemilianogams@ciencias.unam.mx)
  
 
  
