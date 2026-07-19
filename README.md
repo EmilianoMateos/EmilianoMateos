@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-unam.mx-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:jorgeemilianogams@ciencias.unam.mx)
 [![UNAM](https://img.shields.io/badge/B.S.%20Physics-UNAM-002f6c?style=flat-square)](https://www.unam.mx)
 
-<img align='right' src='IMG_GIT.jpg' width='250"'>
+<img align='right' src='ODISEA.jpg' width='250"'>
 
 
 I'm a physicist student at UNAM. My current interests are electrodynamics.
